@@ -22,5 +22,5 @@ function start(){
     
     }
 
-    window.setInterval(start,10);
+    window.setInterval(start,1000);
 }
